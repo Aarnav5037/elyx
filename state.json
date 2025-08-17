@@ -1,0 +1,157 @@
+{
+  "patient_info": {
+    "name": "Rohan",
+    "age": 45,
+    "location": "Singapore",
+    "chronic_condition": "high blood sugar",
+    "living_situation": "lives alone",
+    "job": "high-level executive, frequent travel"
+  },
+  "health_state": {
+    "major_event": null,
+    "minor_event": null,
+    "current_symptoms": [],
+    "adherence_level": 1.0,
+    "next_test_due": "Week 12"
+  },
+  "plan": {
+    "exercise": "light walking",
+    "diet": "low sugar",
+    "medication_reminders": true,
+    "supplements": []
+  },
+  "wearable": {
+    "week_0": null,
+    "biweekly_updates": {}
+  },
+  "member_questions": {
+    "weekly": {}
+  },
+  "last_week_summary": {
+    "topics_discussed": [],
+    "elyx_team_involved": [],
+    "key_decisions": []
+  },
+  "logistics": {
+    "travel_schedule": [
+      {
+        "week": 2,
+        "location": "Tokyo"
+      },
+      {
+        "week": 4,
+        "location": "Jakarta"
+      }
+    ],
+    "preferred_contact_times": [
+      "morning",
+      "late evening"
+    ],
+    "assistant_contact": {
+      "name": "Meera",
+      "phone": "+65-1234-5678"
+    }
+  },
+  "health_events": {
+    "week_1_event": "Rohan experiences a sudden onset of severe abdominal pain and is diagnosed with acute appendicitis, requiring an emergency appendectomy. He undergoes surgery and is advised to take two weeks off work for recovery.",
+    "week_2_update": "Rohan is recovering from his surgery but experiences significant fatigue and discomfort. He begins to engage in light activities but is still restricted from heavy lifting and strenuous exercise. His appetite has decreased, and he is struggling to maintain his energy levels.",
+    "week_3_update": "Around the third week, Rohan develops a minor issue with his digestive health; he experiences constipation as a side effect of the pain medication he was prescribed. He consults with a nutritionist to adjust his diet and incorporates more fiber-rich foods to alleviate the discomfort.",
+    "week_4_update": "By week four, Rohan's abdominal pain has significantly diminished, and he is gradually returning to his normal activities. His digestive issues have improved with dietary adjustments, and he feels more energized. He resumes light exercise and begins to manage stress through tailored relaxation techniques."
+  },
+  "test_panel": {
+    "summary": "At Week 0, the health assessment reveals several areas for improvement, particularly in cholesterol levels and blood pressure. The member is advised to follow a structured health plan to address these concerns.",
+    "detailed_report": [
+      "Blood Pressure: 145/90 mmHg (Out of Range)",
+      "Total Cholesterol: 240 mg/dL (Out of Range)",
+      "HDL Cholesterol: 35 mg/dL (Out of Range)",
+      "LDL Cholesterol: 160 mg/dL (Out of Range)",
+      "Glucose: 110 mg/dL (Out of Range)",
+      "VO2 Max: 28 mL/kg/min (Baseline)"
+    ]
+  },
+  "last_wearable_update": {
+    "week": 32,
+    "update": {
+      "week": 32,
+      "wearable_in_use": "Yes",
+      "device_name": "Apple Watch",
+      "detected_issues": [
+        "irregular HR readings",
+        "sync gaps"
+      ],
+      "member_feedback": "Negative",
+      "elyx_recommendation": "Change device",
+      "next_steps": [
+        "Troubleshoot sync issues with the Apple Watch app",
+        "Consider switching to a Garmin device for more accurate heart rate monitoring",
+        "Schedule a follow-up to review new device performance"
+      ]
+    }
+  },
+  "last_member_questions": {
+    "week": 32,
+    "questions": {
+      "week": 32,
+      "questions": [
+        "I've been tracking my daily steps with my wearable device, and I noticed that my average has decreased since my last trip. Given that I have been more sedentary, could you suggest specific exercises or stretches that could help mitigate any negative effects on my condition?",
+        "I've been reading about the potential side effects of my current medication and how they might interact with certain dietary choices. Can we discuss any evidence-based dietary adjustments I could make that would support my ongoing treatment and overall wellness?"
+      ]
+    }
+  },
+  "weekly_summaries": {
+    "week": 32,
+    "topics_discussed": [
+      "trip preparation",
+      "blood sugar management",
+      "diet and recipes",
+      "blood sugar readings",
+      "exercise routine",
+      "medication adherence",
+      "test panel results",
+      "stress management",
+      "snack packing for travel"
+    ],
+    "elyx_team_involved": [
+      "Ruby (Elyx Concierge)"
+    ],
+    "key_decisions": [
+      "focus on managing elevated blood pressure",
+      "continue with low sugar diet and exercise",
+      "pack low sugar snacks for travel"
+    ],
+    "major_event": "upcoming trip to Jakarta",
+    "minor_event": "discussion of recent test panel results",
+    "current_symptoms": "no symptoms",
+    "adherence_level": 1
+  },
+  "phase_2_events": {
+    "week_1_event": "Rohan experiences a sudden onset of severe abdominal pain and is diagnosed with acute appendicitis, requiring an emergency appendectomy.",
+    "week_2_update": "After surgery, Rohan is advised to rest and avoid strenuous activities. He experiences some post-operative complications, including mild infection at the incision site, requiring antibiotic treatment and follow-up visits with the surgeon.",
+    "week_3_update": "Rohan begins to recover from the surgery but experiences fatigue and a minor gastrointestinal issue, likely due to the antibiotics. He also notices increased stress levels due to work backlog and is encouraged to manage stress through mindfulness techniques.",
+    "week_4_update": "Rohan stabilizes and returns to work part-time. The incision site heals well, and he slowly resumes light exercise. He adopts a stress management routine and focuses on maintaining a balanced diet to support recovery and overall health."
+  },
+  "phase_2_health_events": {
+    "week_1_event": "Rohan experiences severe back pain due to a herniated disc after lifting heavy boxes in his office. He visits a doctor who recommends rest, physical therapy, and pain management.",
+    "week_2_update": "Rohan begins physical therapy sessions but struggles with mobility and experiences frustration. He is advised to avoid prolonged sitting during work hours, which impacts his productivity and stress levels.",
+    "week_3_update": "While managing his back pain, Rohan develops mild tension headaches, likely due to stress and poor posture. He starts practicing relaxation techniques and incorporates ergonomic adjustments at his workstation.",
+    "week_4_update": "Rohan's back pain improves significantly due to consistent physical therapy and proper posture. The tension headaches decrease as he adopts a better work-life balance and incorporates regular stretching exercises into his routine."
+  },
+  "phase_3_events": {
+    "week_1_event": "Rohan experiences a severe allergic reaction after eating shellfish, resulting in a trip to the emergency room for treatment and observation. He is prescribed antihistamines and advised to avoid shellfish in the future.",
+    "week_2_update": "Rohan continues to experience mild side effects from the antihistamines, such as drowsiness and difficulty concentrating at work. He also has to reschedule several meetings due to lingering fatigue. Additionally, he is more cautious about his diet and checks food labels meticulously.",
+    "week_3_update": "While Rohan is managing his allergy, he develops a minor cold, causing him to feel under the weather. He decides to take a couple of sick days to recover. He is still feeling the effects of the antihistamines, and the cold makes it harder for him to concentrate on work tasks.",
+    "week_4_update": "Rohan has recovered from both his cold and the allergic reaction. He feels more energized and is back to his normal routine at work. He schedules a follow-up appointment with his allergist to ensure he is managing his allergy correctly and to discuss a long-term plan."
+  },
+  "phase_4_events": {
+    "week_1_event": "Rohan experiences a severe allergic reaction after dining out, resulting in a trip to the emergency room. He is diagnosed with a food allergy and prescribed antihistamines and an epinephrine auto-injector for future incidents.",
+    "week_2_update": "Rohan continues to monitor his diet closely, avoiding potential allergens. He experiences some anxiety about eating out again, leading to over-cautiousness. He schedules an appointment with an allergist to discuss his condition and undergo additional testing.",
+    "week_3_update": "While Rohan is adjusting to his new dietary restrictions, he develops a mild case of insomnia due to stress and anxiety over his health. He begins to incorporate relaxation techniques and over-the-counter sleep aids to manage the situation.",
+    "week_4_update": "Rohan's allergy management improves as he receives his test results confirming specific allergens. His insomnia also begins to stabilize as he implements a consistent sleep routine and mindfulness practices. He feels more empowered and ready to reintroduce social dining with caution."
+  },
+  "phase_4_health_events": {
+    "week_1_event": "Rohan experiences severe abdominal pain and visits the emergency room, where he is diagnosed with acute appendicitis. He undergoes an emergency appendectomy.",
+    "week_2_update": "Rohan is recovering from surgery but experiences fatigue and mild pain at the incision site. He is advised to take it easy and avoid strenuous activities. He begins physical therapy to regain strength and mobility.",
+    "week_3_update": "While Rohan is recovering, he develops a minor respiratory infection, possibly due to decreased activity levels. He starts feeling congestion and a mild cough, which requires him to take a few days off work to rest and recuperate.",
+    "week_4_update": "Rohan's respiratory infection improves, and he feels stronger after completing physical therapy. He gradually returns to his normal routine, incorporating light exercise and a healthier diet to aid his overall recovery and manage his chronic issue of hypertension."
+  }
+}
